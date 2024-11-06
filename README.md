@@ -21,14 +21,14 @@ Este é um jogo simples de dados chamado **Pig Dice Game**. O objetivo do jogo �
    ```bash
    python pig-dice-game.py](https://www.youtube.com/watch?v=21FnnGKSRZo)
 
-### Rodar os testes
+## Rodar os testes
 
 Para rodar os testes, você pode usar o seguinte comando:
 
 ```bash
 python -m unittest test_pig_dice_game.py
 
-### Exemplo de Uso
+## Exemplo de Uso
 
 1. Clone o repositório:
 
