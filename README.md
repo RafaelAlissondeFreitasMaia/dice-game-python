@@ -7,6 +7,9 @@ Este é um jogo simples de dados chamado **Pig Dice Game**. O objetivo do jogo �
 - Python 3
 - Bibliotecas padrão de Python
 
+## Créditos
+Este projeto foi baseado na ideia do Tech With Tim, conforme apresentado no vídeo da playlist "3 Mini Python Projects" do YouTube. O vídeo pode ser encontrado aqui (https://www.youtube.com/watch?v=21FnnGKSRZo)
+
 ## Como Jogar
 1. Inicie o jogo.
 2. Escolha o número de jogadores (entre 2 e 4).
@@ -43,6 +46,5 @@ cd dice-game-python
 
 python pig_dice_game.py
 
-## Créditos
-Este projeto foi baseado na ideia do Tech With Tim, conforme apresentado no vídeo da playlist "3 Mini Python Projects" do YouTube. O vídeo pode ser encontrado aqui (https://www.youtube.com/watch?v=21FnnGKSRZo)
+
 
